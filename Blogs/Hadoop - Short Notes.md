@@ -75,9 +75,9 @@ Beyond HDFS, YARN, and MapReduce, the entire Hadoop open-source ecosystem contin
 
 ![Hadoop Ecosystem Timeline](https://github.com/elecsomk10/Demo/assets/37346017/063b9d91-f4fb-43d8-9458-de8d13f9b2e7)
 
-We can plug Hadoop with any of the storage systems: Local Storage/HDFS/Amazon S3
-We can plug Hadoop with any of the Resource Managers: YARN/MESOS/Kubernetes
-MapReduce processing unit can also be replaced by Spark in-memory processing framework. 
+We can plug Hadoop with any of the storage systems: Local Storage/HDFS/Amazon S3  
+We can plug Hadoop with any of the Resource Managers: YARN/MESOS/Kubernetes  
+MapReduce processing unit can also be replaced by Spark in-memory processing framework.  
 
 ### How does Hadoop work? 
 
