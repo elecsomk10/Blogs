@@ -1,5 +1,8 @@
 # Hadoop
 
+> **Note:**
+The below article is prepared for fair use with the help of resources published by [GeeksforGeeks](https://www.sap.com/hk/products/technology-platform/what-is-big-data.html), [Alexsoft](https://www.altexsoft.com/blog/), and [Turing](https://www.turing.com/)
+
 ![image](https://github.com/elecsomk10/Demo/assets/37346017/7ebb9097-a620-466e-9159-3c67c380d1db)
 
 ### What is Hadoop?
@@ -29,8 +32,6 @@ Let's summarize the above History of Hadoop:
 
 ![History of Hadoop](https://github.com/elecsomk10/Demo/assets/37346017/becfb754-3617-4be2-b51c-85773ecb4cf3)
 
-![Hadoop 1 vs Hadoop 2](https://github.com/elecsomk10/Demo/assets/37346017/f3f49a9e-cdca-4942-b359-68625adef204)
-
 ### Traditional Approach
 
 In the traditional approach, we used to store data on local machines. This data was then processed. Now as data started increasing, the local machines or computers were not capable enough to store this huge data set. So, data was then started to be stored on remote servers. Now suppose we need to process that data. So, in the traditional approach, this data has to be fetched from the servers and then processed. Suppose this data is of 500 GB. Now, practically it is very complex and expensive to fetch this data. This approach is also called the Enterprise approach.  
@@ -40,6 +41,8 @@ In the new Hadoop approach, instead of fetching the data on local machines, we s
 ![DBMS vs Hadoop](https://github.com/elecsomk10/Demo/assets/37346017/dda3bc7c-593c-4fb0-a361-268ee2d16755)
 
 ### Components of Hadoop
+
+![Hadoop 1 vs Hadoop 2](https://github.com/elecsomk10/Demo/assets/37346017/f3f49a9e-cdca-4942-b359-68625adef204)
 
 Core Components:
 1. HDFS:  
@@ -55,6 +58,8 @@ Beyond HDFS, YARN, and MapReduce, the entire Hadoop open-source ecosystem contin
 
 ![Hadoop Ecosystem](https://github.com/elecsomk10/Demo/assets/37346017/88855e69-17d5-4ede-ac9b-a5a4e5b24e02)
 
+![Hadoop Ecosystem Timeline](https://github.com/elecsomk10/Demo/assets/37346017/063b9d91-f4fb-43d8-9458-de8d13f9b2e7)
+
 We can plug Hadoop with any of the storage systems: Local Storage/HDFS/Amazon S3
 We can plug Hadoop with any of the Resource Managers: YARN/MESOS/Kubernetes
 MapReduce processing unit can also be replaced by Spark in-memory processing framework. 
@@ -64,6 +69,8 @@ MapReduce processing unit can also be replaced by Spark in-memory processing fra
 Hadoop allows for the distribution of datasets across a cluster of commodity hardware. Processing is performed in parallel on multiple servers simultaneously.  
 Software clients input data into Hadoop. HDFS handles metadata and the distributed file system. MapReduce then processes and converts the data. Finally, YARN divides the jobs across the computing cluster.  
 All Hadoop modules are designed with a fundamental assumption that hardware failures of individual machines or racks of machines are common and should be automatically handled in software by the framework.  
+
+![How Hadoop Works?](https://github.com/elecsomk10/Demo/assets/37346017/b8de07bc-856c-470d-ace9-3eca9d99ef26)
 
 ### Benefits of Hadoop
 
