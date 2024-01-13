@@ -10,7 +10,7 @@ Typically, it exceeds the capacity of traditional databases to capture, manage, 
 
 ### Importance of Big Data Analytics
 
-The true value of Big Data is measured by the degree to which you can analyze and understand it. Artificial Intelligence (AI, machine learning, and modern database technologies allow for big data visualization and analytics to deliver actionable insights - in real-time. Big Data analytics help companies put their data to work - to realize new opportunities and build business models.  
+The true value of Big Data is measured by the degree to which you can analyze and understand it. Artificial Intelligence (AI, machine learning, and modern database technologies allow for big data visualization and analytics to deliver actionable insights - in real time. Big Data analytics help companies put their data to work - to realize new opportunities and build business models.  
 As Geoffrey  Moore, author and management analyst, aptly stated, 
 >"Without Big Data analytics, companies are blind and deaf, wandering out onto the Web like deer on a freeway."
 
@@ -49,8 +49,8 @@ Just because a data set is big, it isn’t necessarily Big Data. To qualify as s
 
 1. Volume: To fully manage and utilize Big Data, advanced algorithms, and AI-driven analytics are required. But before any of that can happen, there needs to be a secure and reliable means of storing, organizing, and retrieving the many terabytes of data that are held by large companies.
 2. Velocity: Today, Big Data technology allows databases to process, analyze, and configure data while it is being generated – sometimes within milliseconds. For businesses, that means real-time data can be used to capture financial opportunities, respond to customer needs, thwart fraud, and address any other activity where speed is critical.
-3. Variety: Big Data is typically comprised of combinations of structured, unstructured, and semi-structured data. Traditional databases and data management solutions lack the flexibility and scope to manage the complex, disparate data sets that makeup Big Data.
-4. Veracity: While modern database technology makes it possible for companies to amass and make sense of staggering amounts and types of Big Data, it’s only valuable if it is accurate, relevant, and timely. For traditional databases that were populated only with structured data, syntactical errors, and typos were the usual culprits when it came to data accuracy. With unstructured data, there is a whole new set of veracity challenges. Human bias, social noise, and data provenance issues can all have an impact on the quality of data.
+3. Variety: Big Data typically comprises combinations of structured, unstructured, and semi-structured data. Traditional databases and data management solutions lack the flexibility and scope to manage the complex, disparate data sets that make up Big Data.
+4. Veracity: While modern database technology makes it possible for companies to amass and make sense of staggering amounts and types of Big Data, it’s only valuable if it is accurate, relevant, and timely. For traditional databases populated only with structured data, syntactical errors, and typos were the usual culprits when it came to data accuracy. With unstructured data, there is a whole new set of veracity challenges. Human bias, social noise, and data provenance issues can all have an impact on the quality of data.
 5. Value: It’s essential to determine the business value of the data you collect. Big data must contain the right data and then be effectively analyzed to yield insights that can help drive decision-making.
 
 ### Benefits of Big Data
@@ -61,7 +61,7 @@ Modern Big Data Management solutions allow companies to turn raw data into relev
 3. Customer Experience: In a 2020 survey of global business leaders, Gartner determined that “growing companies are more actively collecting customer experience data than nongrowth companies.” Analyzing this Big Data allows businesses to improve and personalize their customers’ experience with their brand. In addition to Big Data, CX teams are increasingly taking “thick data” into account. These qualitative insights into customers’ observations, feelings, and reactions are enhancing Big Data and giving companies a more comprehensive understanding of their customers.
 4. Resilience and risk management: The COVID-19 pandemic was a sharp awakening for many business leaders as they realized just how vulnerable their operations were to disruption. Big Data insights can help companies anticipate risk and prepare for the unexpected.
 5. Cost savings and greater efficiency: When businesses apply advanced Big Data analytics across all processes within their organization, they cannot only spot inefficiencies but to implement fast and effective solutions.
-6. Improved competitiveness: The insights gleaned from Big Data can help companies save money, please customers, make better products and innovate business operations.
+6. Improved competitiveness: The insights gleaned from Big Data can help companies save money, please customers, make better products, and innovate business operations.
 
 ### How Big Data Works
 
