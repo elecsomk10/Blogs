@@ -4,20 +4,17 @@ The below article is prepared for fair use with the help of documentation publis
 
 ### Big Data Definition
 
-Big Data is the ocean of information we swim in daily - vast zettabytes of data flowing from our computers, mobile devices, and machine sensors. Organizations use this data to _drive decisions, improve processes and policies, and create customer-centric products, services, and experiences_.
-Big Data is defined as "big" not just because of its volume, but also due to the variety and complexity of its nature.
-Typically, it exceeds the capacity of traditional databases to capture, manage, and process it. And, Big Data can come from anywhere or anything on earth that we can monitor digitally. Weather satellites, Internet of Things (IoT) devices, traffic cameras, and social media trends - these are just a few of the data sources being mined and analyzed to make businesses more resilient and competitive.
+Big Data is the ocean of information we swim in daily - It includes an immense amount of data coming from our computers, phones, and various sensors. Companies use this data to make decisions, improve processes and policies, and create products and services that better suit customers.
+Big Data is defined as "big" not just because of its volume, but also due to the variety and complexity of its nature.  
+This kind of data is so huge that it exceeds the capacity of traditional databases to capture, manage, and process it. And, Big Data can come from anywhere or anything on earth that we can monitor digitally. For example, data from weather satellites, Internet of Things devices (like smart thermostats or fitness trackers), traffic cameras, and social media trends are all part of Big Data. People use this information to help businesses become more competitive and adaptable.  
+The true value of Big Data is measured by the degree to which you can analyze and understand it. Artificial Intelligence (AI), machine learning, and modern database technologies allow for big data visualization and analytics to deliver actionable insights - in real-time. Big Data analytics help companies put their data to work - to realize new opportunities and build business models.  
 
-### Importance of Big Data Analytics
-
-The true value of Big Data is measured by the degree to which you can analyze and understand it. Artificial Intelligence (AI, machine learning, and modern database technologies allow for big data visualization and analytics to deliver actionable insights - in real-time. Big Data analytics help companies put their data to work - to realize new opportunities and build business models.  
-As Geoffrey  Moore, author and management analyst, aptly stated, 
->"Without Big Data analytics, companies are blind and deaf, wandering out onto the Web like deer on a freeway."
+Explore, through this case study, how YouTube, the world's most visited social media platform, efficiently processes substantial volumes of real-time data to enhance user experiences.  
+[Real-Life Scenario on How YouTube processes huge volume of data and provide relevant services to Users in real time]()
 
 ### Evolution of Big Data
 
-As inconceivable as it seems today, the Apollo Guidance Computer took the first spaceship to the moon with fewer than 80 kilobytes of memory. Since then, computer technology has grown at an exponential rate - and data generation along with it. The world's technological capacity to store data has been doubling about every three years since the 1980s. Just over 50 years ago when Apollo 11 lifted off, the amount of digital data generated in the entire world could have fit on the average laptop. In 2020, [Statista](https://www.statista.com/statistics/871513/worldwide-data-created/) estimates that 64.2 ZB (_1 ZB
-=1,000,000,000,000 GB_) of data was created or replicated, and "The amount of digital data created over the next five years will be greater than twice the amount of data created since the advent of digital storage."
+Even though it might sound surprising today, the computer that guided the first spaceship to the moon had less than 80 kilobytes of memory. Since then, computer technology and data generation have exponentially advanced. The world's data storage capacity has doubled approximately every three years since the 1980s. Over 50 years ago, all the digital data generated globally could fit on an average laptop. In 2020, [Statista](https://www.statista.com/statistics/871513/worldwide-data-created/) estimates that 64.2 ZB (1 ZB = 1,000,000,000,000 GB) of data was created or replicated. Forecasts indicate that the amount of digital data created in the next five years will surpass twice the data created since the inception of digital storage.
 
 ![Data Size Comparison](https://github.com/elecsomk10/Demo/assets/37346017/c6d4bc44-3d92-4f31-9081-56348b4b3cce)
 
@@ -25,7 +22,7 @@ As inconceivable as it seems today, the Apollo Guidance Computer took the first 
 
 Data sets are typically categorized into three types based on their structure and how straightforward (or not) it is to index. 
 
-![Types of Data](https://github.com/elecsomk10/Demo/assets/37346017/71bd171b-5bcd-46ab-b4b0-739141ddcd54)
+![Types of Data](https://github.com/elecsomk10/Blogs/assets/37346017/ec861b57-e491-430e-b1f3-8ccd0e1bd2fa)
 
 1. Structured Data: Simplest to organize and search. It can include things like financial data, machine logs, and demographic details. Excel and SQL Databases are good examples of tabular structured data where data is stored in rows and columns. Even when structured data exists in enormous volume, it doesn't necessarily qualify as Big Data because structured data on its own is relatively simple to manage and therefore doesn't meet the defining criteria of Big Data.
 2. Unstructured Data: This category of data can include things like social media posts, audio files, images, and open-ended customer comments. This kind of data cannot be easily captured in standard row-column relational databases. Traditionally, companies have struggled to search, manage, or analyze large amounts of unstructured data also to find potential value in analyzing and understanding such data. Instead of spreadsheets or relational databases, unstructured data is usually stored in data lakes, data warehouses, and NoSQL databases. 
