@@ -1,4 +1,4 @@
-# Hadoop - Short Notes 
+# Hadoop
 
 > **Note:**
 The below article is prepared for fair use with the help of resources published by [GeeksforGeeks](https://www.geeksforgeeks.org), [Alexsoft](https://www.altexsoft.com/blog/), and [Turing](https://www.turing.com/)
