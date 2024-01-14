@@ -39,7 +39,7 @@ The engineering task in the Nutch project was much bigger than he realized. So, 
 
 In the traditional realm, data storage used to rely on local machines, a practice that served well until the datasets grew colossal. As data expanded beyond the capacity of local machines, a shift to remote servers became inevitable. However, a significant challenge emerged when processing this data. In the traditional enterprise approach, fetching sizable data, say 500 GB, from remote servers proved to be complex and costly. This is where Hadoop steps in with a game-changing approach. Instead of hauling data to local machines, Hadoop sends queries to where the data resides. The beauty lies in the query's size, which is significantly smaller than the massive dataset. Using the power of MapReduce, the server divides the query into parts, enabling parallel execution for simultaneous data processing. With Hadoop, there's no need to bear the burden of fetching extensive data, and the processing time is drastically reduced. The end result? A seamless process of storage, processing, and analysis, making Hadoop a transformative force in the world of data management compared to the traditional approach.  
 
-![DBMS vs Hadoop](https://github.com/elecsomk10/Demo/assets/37346017/dda3bc7c-593c-4fb0-a361-268ee2d16755)
+![DBMS vs Hadoop](https://github.com/elecsomk10/Blogs/assets/37346017/c040e67f-4251-40f9-8054-6b4739ea42c3)
 
 ### Components of Hadoop
 
