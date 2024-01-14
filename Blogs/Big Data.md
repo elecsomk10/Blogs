@@ -6,11 +6,8 @@ The below article is prepared for fair use with the help of documentation publis
 
 Big Data is the ocean of information we swim in daily - It includes an immense amount of data coming from our computers, phones, and various sensors. Companies use this data to make decisions, improve processes and policies, and create products and services that better suit customers.
 Big Data is defined as "big" not just because of its volume, but also due to the variety and complexity of its nature.  
-This kind of data is so huge that it exceeds the capacity of traditional databases to capture, manage, and process it. And, Big Data can come from anywhere or anything on earth that we can monitor digitally. For example, data from weather satellites, Internet of Things devices (like smart thermostats or fitness trackers), traffic cameras, and social media trends are all part of Big Data. People use this information to help businesses become more competitive and adaptable.  
+This kind of data is so huge that it exceeds the capacity of traditional databases to capture, manage, and process it. Big Data can come from anywhere or anything on earth that we can monitor digitally. For example, data from weather satellites, Internet of Things devices (like smart thermostats or fitness trackers), traffic cameras, and social media trends are all part of Big Data. People use this information to help businesses become more competitive and adaptable.  
 The true value of Big Data is measured by the degree to which you can analyze and understand it. Artificial Intelligence (AI), machine learning, and modern database technologies allow for big data visualization and analytics to deliver actionable insights - in real-time. Big Data analytics help companies put their data to work - to realize new opportunities and build business models.  
-
-Explore, through this case study, how YouTube, the world's most visited social media platform, efficiently processes substantial volumes of real-time data to enhance user experiences.  
-[Real-Life Scenario on How YouTube processes huge volume of data and provide relevant services to Users in real time]()
 
 ### Evolution of Big Data
 
@@ -30,7 +27,7 @@ But for categorization, data sources are generally broken down into three types:
 From these sources, we receive different types of data.    
 Data sets are typically categorized into three types based on their structure and how straightforward (or not) it is to index. 
 
-![Types of Data](https://github.com/elecsomk10/Blogs/assets/37346017/ec861b57-e491-430e-b1f3-8ccd0e1bd2fa)
+![Types of Data](https://github.com/elecsomk10/Blogs/assets/37346017/5c6bd6b9-5bdd-47ca-9ae8-06ce6b59d37c)
 
 1. Structured Data: Organized into tables and databases, includes information from relational databases and spreadsheets. Simplest to organize and search. It can include things like financial data, machine logs, and demographic details. Excel and SQL Databases are good examples of tabular structured data where data is stored in rows and columns. Even when structured data exists in enormous volume, it doesn't necessarily qualify as Big Data because structured data on its own is relatively simple to manage and therefore doesn't meet the defining criteria of Big Data.
 2. Unstructured Data: This category of data can include things like social media posts, audio files, images, and open-ended customer comments. This kind of data lacks a predefined data model, and cannot be easily captured in standard row-column relational databases. Traditionally, companies have struggled to search, manage, or analyze large amounts of unstructured data also to find potential value in analyzing and understanding such data. Instead of spreadsheets or relational databases, unstructured data is usually stored in data lakes, data warehouses, and NoSQL databases. 
@@ -71,3 +68,6 @@ Modern Big Data Management solutions allow companies to turn raw data into relev
 4. Resilience and risk management: The COVID-19 pandemic was a sharp awakening for many business leaders as they realized just how vulnerable their operations were to disruption. Big Data insights can help companies anticipate risk and prepare for the unexpected.
 5. Cost savings and greater efficiency: When businesses apply advanced Big Data analytics across all processes within their organization, they cannot only spot inefficiencies but to implement fast and effective solutions.
 6. Improved competitiveness: The insights gleaned from Big Data can help companies save money, please customers, make better products, and innovate business operations.
+
+Explore, through this case study, how YouTube, the world's most visited social media platform, efficiently processes substantial volumes of real-time data to enhance user experiences.  
+[Real-Life Scenario on How YouTube processes huge volume of data and provide relevant services to Users in real time]()
