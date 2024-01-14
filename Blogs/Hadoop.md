@@ -10,6 +10,7 @@ The below article is prepared for fair use with the help of resources published 
 There are mainly two problems with the big data.  
 1. To **Store** a huge amount of data
 2. To **Process** that stored data
+
 The traditional approach like RDBMS is not sufficient due to the heterogeneity of the data. So, Hadoop comes as the solution to the problem of big data i.e. storing and processing the big data with some extra capabilities.
 
 Hadoop is an open-source framework designed for the distributed storage and processing of large datasets using a cluster of commodity hardware. It's a part of the Apache Software Foundation and provides a set of tools and libraries for handling big data in a scalable and fault-tolerant manner.  
